@@ -1,0 +1,15 @@
+{
+  "name": "algorithms-tasks",
+  "version": "1.0.0",
+  "description": "solution",
+  "main": "number-of-islands.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "type": "module",
+  "author": "nik.00.did",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
